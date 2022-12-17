@@ -69,7 +69,7 @@ a{
     border: 1px solid #fff;
 }
 .btn a:focus:nth-child(2), .btn a:hover:nth-child(2){
-    background: rgb(241, 239, 241);
+    background: rgb(235, 5, 235);
 }
 .btn a:nth-child(1){
     background-color: rgb(244, 2, 2);
